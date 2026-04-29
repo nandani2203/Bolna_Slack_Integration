@@ -142,6 +142,8 @@ ngrok http 8000
 
 ### Testing
 
+> Before running, update `WEBHOOK_URL` in `test_webhook.py` with your current ngrok forwarding URL.
+
 ## Windows
 ```
 & "path\to\.venv\Scripts\python.exe" test_webhook.py
