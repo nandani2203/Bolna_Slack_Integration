@@ -32,7 +32,7 @@ python-dotenv
 ```
 bolna_assignment/
 ├── app/
-│   ├── __init__.py        # Makes app a Python package
+│   ├── __init__.py        
 │   ├── main.py            # FastAPI server, webhook endpoint
 │   ├── slack.py           # Formats and sends Slack alerts
 │   └── config.py          # Builds agent → Slack channel routing map
@@ -51,7 +51,7 @@ bolna_assignment/
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/nandani2203/bolna_assignment.git
+git clone https://github.com/nandani2203/Bolna_Slack_Integration.git
 cd bolna_assignment
 
 ```
