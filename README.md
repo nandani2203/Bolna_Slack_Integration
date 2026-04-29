@@ -52,7 +52,7 @@ bolna_assignment/
 
 ```
 git clone https://github.com/nandani2203/Bolna_Slack_Integration.git
-cd bolna_assignment
+cd Bolna_Slack_Integration
 
 ```
 ### 2. Configure `.env`
