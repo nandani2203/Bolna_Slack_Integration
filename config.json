@@ -1,0 +1,10 @@
+{
+    "announcements": {
+        "1": "your-announcements-agent-id-1",
+        "2": "your-announcements-agent-id-2"
+    },
+    "reminders": {
+        "1": "your-reminders-agent-id-1",
+        "2": "your-reminders-agent-id-2"
+    }
+}
