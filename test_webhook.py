@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-WEBHOOK_URL = "https://musty-student-feast.ngrok-free.dev/webhook"
+WEBHOOK_URL = "https://your-ngrok-url/webhook"
 
 with open("config.json") as f:
     agent_config = json.load(f)
